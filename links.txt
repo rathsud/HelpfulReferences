@@ -1,3 +1,4 @@
 ############### Helpful Links ###############
 
-1. MacOS IntelliJ IDEA Shortcuts: https://docs.google.com/viewer?url=https://github.com/rathsud/HelpfulReferences/raw/master/MacOS_IntelliJIDEA_ReferenceCard.pdf
+1. MacOS IntelliJ IDEA Shortcuts 
+https://docs.google.com/viewer?url=https://github.com/rathsud/HelpfulReferences/raw/master/MacOS_IntelliJIDEA_ReferenceCard.pdf
